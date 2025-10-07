@@ -1,0 +1,8 @@
+begin:
+enabled
+active
+regexp: ^^ \s* "<h1>This is Site 1</h1>" 
+200
+regexp: ^^ \s* "<h1>This is Site 2</h1>"
+200
+end:
